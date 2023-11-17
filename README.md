@@ -20,10 +20,7 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/5b6552e3da1b40328faee34b6dd930ad">
-      <p>Library | Loom - 16 November 2023</p>
-    </a>
-    <a href="https://www.loom.com/share/5b6552e3da1b40328faee34b6dd930ad">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5b6552e3da1b40328faee34b6dd930ad-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5b6552e3da1b40328faee34b6dd930ad-1700180666698-with-play.gif">
     </a>
 </div>
   
